@@ -35,18 +35,22 @@ UI dibuat dengan tema dark mode menyerupai tampilan WhatsApp asli dan dilengkapi
 ## Screenshot
 
 ### Chat List
-[Klik lihat screenshot chat list](screenshot/sschatlist.png)
+
+![Chat List](screenshot/sschatlist.png)
 
 ### Chat Room
-[Klik lihat screenshot chat room](screenshot/sschatroom.png)
+
+![Chat Room](screenshot/sschatroom.png)
 
 ## Wireframe
 
 ### Wireframe Chat List
-[Klik lihat wireframe chat list](wireframe/chatlist.png)
+
+![Wireframe Chat List](wireframe/chatlist.png)
 
 ### Wireframe Chat Room
-[Klik lihat wireframe chat room](wireframe/chatroom.png)
+
+![Wireframe Chat Room](wireframe/chatroom.png)
 
 ## Kesulitan yang Ditemui
 
