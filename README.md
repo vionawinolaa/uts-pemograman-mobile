@@ -36,11 +36,11 @@ UI dibuat dengan tema dark mode menyerupai tampilan WhatsApp asli dan dilengkapi
 
 ### Chat List
 
-![Chat List](screenshot/ss%20chatlist.png)
+![Chat List](screenshot/sschatlist.png)
 
 ### Chat Room
 
-![Chat Room](screenshot/ss%20chatroom.png)
+![Chat Room](screenshot/sschatroom.png)
 
 ## Wireframe
 
